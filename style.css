@@ -48,3 +48,20 @@ footer {
     font-size: 1rem;
     color: #ddd;
 }
+
+a:link {
+    color: rgb(0, 183, 255);
+}
+
+a:visited {
+    color: rgb(0, 183, 255);
+}
+
+a:hover {
+    color: rgb(0, 78, 109);
+}
+
+.credits {
+    font-size: 0.8rem;
+    margin-top: 0.3rem;
+}
